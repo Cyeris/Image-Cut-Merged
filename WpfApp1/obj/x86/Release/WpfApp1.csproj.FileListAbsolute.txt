@@ -1,0 +1,6 @@
+C:\Users\is365\source\repos\WpfApp1\WpfApp1\obj\x86\Release\WpfApp1.csprojAssemblyReference.cache
+C:\Users\is365\source\repos\WpfApp1\WpfApp1\obj\x86\Release\MainWindow.g.cs
+C:\Users\is365\source\repos\WpfApp1\WpfApp1\obj\x86\Release\App.g.cs
+C:\Users\is365\source\repos\WpfApp1\WpfApp1\obj\x86\Release\WpfApp1_Content.g.cs
+C:\Users\is365\source\repos\WpfApp1\WpfApp1\obj\x86\Release\WpfApp1_MarkupCompile.cache
+C:\Users\is365\source\repos\WpfApp1\WpfApp1\obj\x86\Release\WpfApp1_MarkupCompile.lref
